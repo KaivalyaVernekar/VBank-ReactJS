@@ -1,7 +1,7 @@
 <h1 align="center">VBank</h1>
 
 <hr />
-![Website Link] ()
+![Website Link] (https://bankvirtual.netlify.app/)
 <hr />
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 <hr />
 
-<p align="center">This is a ReactJS and Styled Components based responsive single page website for virtual banking.</p>
+<p align="center">This is a ReactJS and Styled Components based responsive single page website with smooth scrolling for virtual banking.</p>
 
 ## 💡Features
 
