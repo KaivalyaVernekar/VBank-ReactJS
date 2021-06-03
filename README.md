@@ -3,7 +3,7 @@
 <hr />
 ![Website Link] (https://bankvirtual.netlify.app/)
 <hr />
-<div align="center" autoplay={true} muted={true} loop={true}>
+<div align="center" autoplay={true} muted={true} loop={true} object-fit="cover">
 
 <!-- Add your project demo gif here -->
 
