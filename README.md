@@ -13,7 +13,7 @@
 
 <hr />
 
-<p align="center">This is a ReactJS and Styled Components based responsive single page website with smooth scrolling for virtual banking.</p>
+<p align="left">This is a ReactJS and Styled Components based responsive single page website with smooth scrolling for virtual banking.</p>
 
 ## 💡Features
 
