@@ -3,11 +3,11 @@
 <hr />
 ![Website Link] (https://bankvirtual.netlify.app/)
 <hr />
-<div align="center">
+<div align="center" autoplay={true} muted={true} loop={true}>
 
 <!-- Add your project demo gif here -->
 
-![Project Demo Gif]()
+![Project Demo Gif](https://media.giphy.com/media/tF3dhzeY5NVxjQGXeN/giphy.gif)
 
 </div>
 
